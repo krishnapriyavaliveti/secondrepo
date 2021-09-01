@@ -1,1 +1,3 @@
 This is my new file in notepad.
+
+here i am adding new line for this text file.
