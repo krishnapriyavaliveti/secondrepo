@@ -1,0 +1,2 @@
+this is second line added to it
+this is new line addede to file2.txt
